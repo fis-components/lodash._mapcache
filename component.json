@@ -1,0 +1,10 @@
+{
+    "name": "lodash._mapcache",
+    "description": "The internal lodash function `MapCache` exported as a module.",
+    "repos": "https://github.com/lodash/lodash.git",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "main": "index.js",
+    "version": "4.1.0"
+}
