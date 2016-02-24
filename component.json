@@ -4,7 +4,9 @@
     "repos": "https://github.com/lodash/lodash.git",
     "tag": "master",
     "reposType": "npm",
-    "dependencies": {},
+    "dependencies": {
+        "lodash._root": "^3.0.0"
+    },
     "main": "index.js",
-    "version": "4.1.0"
+    "version": "4.1.1"
 }
